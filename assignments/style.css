@@ -1,0 +1,92 @@
+header{
+    padding: 16px 78px;
+    background-color: #fff;
+    overflow: hidden;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    top: 0;
+    width: 100%;
+    font-family: Raleway,sans-serif;
+}
+ li{
+    float:left;
+    padding: 23px;
+ }
+    
+.loki{
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.logo{
+    Width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-weight: 800;
+}
+.stories{
+    margin: 0;
+    font-weight: 500;
+    font:Raleway;
+}
+.categories{
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-top: 16px;
+    margin-left: 12px;
+}
+.btn{
+    padding: 6px 14px;
+    width: auto;
+      color: #0084ff;
+    border-radius: 15px;
+    border:1px solid  #0084ff;
+    margin: 5px;
+    float:left;
+background-color: white;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    padding: 30px;
+    display: inline-block;
+ }
+
+.card{
+    width: 29%;
+    background-color:white;
+    border-radius: 15px;
+    border-bottom: 15px;
+    margin: 10px;
+    display: inline-block;
+    margin-Left: 35px;
+    overflow: hidden;
+    }
+.image img{
+    width: 100%;
+    height: 200px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+}
+
+.title{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+}
+.info{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+
+}
+.details{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    padding-bottom:10px;
+
+}
